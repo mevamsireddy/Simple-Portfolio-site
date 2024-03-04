@@ -11,6 +11,8 @@ This portfolio site is designed to provide a clean and interactive platform for 
 
 # Features
 **Responsive Design: **The site is designed to be fully responsive, ensuring a seamless experience across various devices and screen sizes.
+
 **Project Showcase:** The projects page showcases my latest and most notable projects, providing brief descriptions and links to view more details.
-**About Me: **The about page offers insights into my background, skills, and interests, helping visitors get to know me better.
+
+About Me: The about page offers insights into my background, skills, and interests, helping visitors get to know me better.
 Contact Form: A contact form is included to facilitate communication with visitors interested in reaching out.
