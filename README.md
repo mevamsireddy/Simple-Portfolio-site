@@ -6,11 +6,11 @@ This portfolio site is designed to provide a clean and interactive platform for 
 
 # Technologies Used
 **HTML:** Used to structure the content of the site.
-**CSS: ** Utilized for styling and design.
+**CSS:** Utilized for styling and design.
 **JavaScript:** Added for interactivity and dynamic elements.
 
 # Features
-**Responsive Design: ** The site is designed to be fully responsive, ensuring a seamless experience across various devices and screen sizes.
+**Responsive Design:** The site is designed to be fully responsive, ensuring a seamless experience across various devices and screen sizes.
 
 **Project Showcase:** The projects page showcases my latest and most notable projects, providing brief descriptions and links to view more details.
 
